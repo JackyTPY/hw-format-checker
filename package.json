@@ -1,0 +1,22 @@
+{
+  "name": "hw-format-checker",
+  "version": "1.0.0",
+  "description": "To check whether homework's format is correct or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackyTPY/hw-format-checker.git"
+  },
+  "author": "Jacky Tseng <csps50404@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackyTPY/hw-format-checker/issues"
+  },
+  "homepage": "https://github.com/JackyTPY/hw-format-checker#readme",
+  "dependencies": {
+    "jszip": "^3.2.2"
+  }
+}
