@@ -16,7 +16,5 @@
     "url": "https://github.com/JackyTPY/hw-format-checker/issues"
   },
   "homepage": "https://github.com/JackyTPY/hw-format-checker#readme",
-  "dependencies": {
-    "jszip": "^3.2.2"
-  }
+  "dependencies": {}
 }
